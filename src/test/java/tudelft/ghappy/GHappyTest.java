@@ -8,7 +8,7 @@ public class GHappyTest {
     private GHappy gHappy;
 
     @BeforeEach
-    public void test() {
+    public void initialize() {
         gHappy = new GHappy();
     }
 
