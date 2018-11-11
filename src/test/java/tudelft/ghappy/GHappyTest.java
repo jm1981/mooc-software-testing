@@ -5,7 +5,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class GHappyTest {
-    GHappy gHappy;
+    private GHappy gHappy;
 
     @BeforeEach
     public void test() {
